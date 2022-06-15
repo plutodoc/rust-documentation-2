@@ -223,6 +223,10 @@ export default defineUserConfig({
                 '/documentation/more-about-cargo/extending-cargo.md',
               ],
             },
+            {
+              text: '15 Smart Pointers',
+              link: '/documentation/smart-pointers/index.md',
+            },
           ],
         },
       },
