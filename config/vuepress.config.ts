@@ -153,6 +153,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/common-collections/vectors.md',
+                '/documentation/common-collections/strings.md',
               ],
             },
           ],
