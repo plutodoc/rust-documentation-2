@@ -211,6 +211,10 @@ export default defineUserConfig({
                 '/documentation/functional-features/performance.md',
               ],
             },
+            {
+              text: '14 More About Cargo and Crates.io',
+              link: '/documentation/more-about-cargo/index.md',
+            },
           ],
         },
       },
