@@ -141,6 +141,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/managing-growing-projects-with-packages-crates-and-modules/packages-and-crates.md',
+                '/documentation/managing-growing-projects-with-packages-crates-and-modules/defining-modules-to-control-scope-and-privacy.md',
               ],
             },
           ],
