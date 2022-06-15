@@ -118,6 +118,10 @@ export default defineUserConfig({
             {
               text: '5 Using Structs to Structure Related Data',
               link: '/documentation/structs/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/structs/defining-structs.md',
+              ],
             },
           ],
         },
