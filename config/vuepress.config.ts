@@ -132,6 +132,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/enums/defining-an-enum.md',
                 '/documentation/enums/match.md',
+                '/documentation/enums/if-let.md',
               ],
             },
           ],
