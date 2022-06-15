@@ -190,6 +190,10 @@ export default defineUserConfig({
             {
               text: '12 An I/O Project: Building a Command Line Program',
               link: '/documentation/an-io-project/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/an-io-project/accepting-command-line-arguments.md',
+              ],
             },
           ],
         },
