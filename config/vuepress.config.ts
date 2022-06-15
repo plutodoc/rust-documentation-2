@@ -217,6 +217,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/more-about-cargo/release-profiles.md',
+                '/documentation/more-about-cargo/publishing-to-crates-io.md',
               ],
             },
           ],
