@@ -247,6 +247,10 @@ export default defineUserConfig({
                 '/documentation/concurrency/extensible-concurrency-sync-and-send.md',
               ],
             },
+            {
+              text: '17 Object Oriented Programming Features of Rust',
+              link: '/documentation/oop/index.md',
+            },
           ],
         },
       },
