@@ -295,6 +295,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/appendix/keywords.md',
+                '/documentation/appendix/operators.md',
               ],
             },
           ],
