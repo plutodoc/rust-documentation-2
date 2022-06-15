@@ -253,6 +253,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/oop/what-is-oo.md',
+                '/documentation/oop/trait-objects.md',
               ],
             },
           ],
