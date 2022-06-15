@@ -206,6 +206,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/functional-features/closures.md',
+                '/documentation/functional-features/iterators.md',
               ],
             },
           ],
