@@ -263,6 +263,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/patterns/all-the-places-for-patterns.md',
+                '/documentation/patterns/refutability.md',
               ],
             },
           ],
