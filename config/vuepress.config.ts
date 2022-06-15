@@ -105,6 +105,10 @@ export default defineUserConfig({
                 '/documentation/common-programming-concepts/control-flow.md',
               ],
             },
+            {
+              text: '4 Understanding Ownership',
+              link: '/documentation/understanding-ownership/index.md',
+            },
           ],
         },
       },
