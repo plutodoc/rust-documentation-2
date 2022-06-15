@@ -282,6 +282,10 @@ export default defineUserConfig({
             {
               text: '20 Final Project: Building a Multithreaded Web Server',
               link: '/documentation/final-project-a-web-server/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/final-project-a-web-server/single-threaded.md',
+              ],
             },
           ],
         },
