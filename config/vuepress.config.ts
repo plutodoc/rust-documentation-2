@@ -243,6 +243,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/concurrency/threads.md',
                 '/documentation/concurrency/message-passing.md',
+                '/documentation/concurrency/shared-state.md',
               ],
             },
           ],
