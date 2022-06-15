@@ -207,6 +207,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/functional-features/closures.md',
                 '/documentation/functional-features/iterators.md',
+                '/documentation/functional-features/improving-our-io-project.md',
               ],
             },
           ],
