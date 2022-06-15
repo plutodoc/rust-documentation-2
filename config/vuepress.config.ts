@@ -297,6 +297,7 @@ export default defineUserConfig({
                 '/documentation/appendix/keywords.md',
                 '/documentation/appendix/operators.md',
                 '/documentation/appendix/derivable-traits.md',
+                '/documentation/appendix/useful-development-tools.md',
               ],
             },
           ],
