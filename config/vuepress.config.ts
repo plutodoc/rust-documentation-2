@@ -125,6 +125,10 @@ export default defineUserConfig({
                 '/documentation/structs/method-syntax.md',
               ],
             },
+            {
+              text: '6 Enums and Pattern Matching',
+              link: '/documentation/enums/index.md',
+            },
           ],
         },
       },
