@@ -244,6 +244,7 @@ export default defineUserConfig({
                 '/documentation/concurrency/threads.md',
                 '/documentation/concurrency/message-passing.md',
                 '/documentation/concurrency/shared-state.md',
+                '/documentation/concurrency/extensible-concurrency-sync-and-send.md',
               ],
             },
           ],
