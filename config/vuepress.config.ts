@@ -264,6 +264,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/patterns/all-the-places-for-patterns.md',
                 '/documentation/patterns/refutability.md',
+                '/documentation/patterns/pattern-syntax.md',
               ],
             },
           ],
