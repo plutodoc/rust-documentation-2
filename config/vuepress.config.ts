@@ -208,6 +208,7 @@ export default defineUserConfig({
                 '/documentation/functional-features/closures.md',
                 '/documentation/functional-features/iterators.md',
                 '/documentation/functional-features/improving-our-io-project.md',
+                '/documentation/functional-features/performance.md',
               ],
             },
           ],
