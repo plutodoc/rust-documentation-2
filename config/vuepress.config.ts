@@ -229,6 +229,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/smart-pointers/box.md',
+                '/documentation/smart-pointers/deref.md',
               ],
             },
           ],
