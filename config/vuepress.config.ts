@@ -187,6 +187,10 @@ export default defineUserConfig({
                 '/documentation/testing/test-organization.md',
               ],
             },
+            {
+              text: '12 An I/O Project: Building a Command Line Program',
+              link: '/documentation/an-io-project/index.md',
+            },
           ],
         },
       },
