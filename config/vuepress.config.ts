@@ -260,6 +260,10 @@ export default defineUserConfig({
             {
               text: '18 Patterns and Matching',
               link: '/documentation/patterns/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/patterns/all-the-places-for-patterns.md',
+              ],
             },
           ],
         },
