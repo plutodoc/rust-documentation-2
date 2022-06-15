@@ -203,6 +203,10 @@ export default defineUserConfig({
             {
               text: '13 Functional Language Features: Iterators and Closures',
               link: '/documentation/functional-features/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/functional-features/closures.md',
+              ],
             },
           ],
         },
