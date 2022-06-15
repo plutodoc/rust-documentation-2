@@ -173,6 +173,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/generics/syntax.md',
+                '/documentation/generics/traits.md',
               ],
             },
           ],
