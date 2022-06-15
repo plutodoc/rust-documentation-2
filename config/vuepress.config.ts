@@ -111,6 +111,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/understanding-ownership/what-is-ownership.md',
+                '/documentation/understanding-ownership/references-and-borrowing.md',
               ],
             },
           ],
