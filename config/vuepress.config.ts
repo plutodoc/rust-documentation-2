@@ -254,6 +254,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/oop/what-is-oo.md',
                 '/documentation/oop/trait-objects.md',
+                '/documentation/oop/oo-design-patterns.md',
               ],
             },
           ],
