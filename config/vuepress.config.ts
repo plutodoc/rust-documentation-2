@@ -250,6 +250,10 @@ export default defineUserConfig({
             {
               text: '17 Object Oriented Programming Features of Rust',
               link: '/documentation/oop/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/oop/what-is-oo.md',
+              ],
             },
           ],
         },
