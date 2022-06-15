@@ -285,6 +285,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/final-project-a-web-server/single-threaded.md',
+                '/documentation/final-project-a-web-server/multithreaded.md',
               ],
             },
           ],
