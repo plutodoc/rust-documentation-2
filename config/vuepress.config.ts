@@ -292,6 +292,10 @@ export default defineUserConfig({
             {
               text: 'Appendix',
               link: '/documentation/appendix/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/appendix/keywords.md',
+              ],
             },
           ],
         },
