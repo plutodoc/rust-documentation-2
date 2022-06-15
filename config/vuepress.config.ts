@@ -230,6 +230,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/smart-pointers/box.md',
                 '/documentation/smart-pointers/deref.md',
+                '/documentation/smart-pointers/drop.md',
               ],
             },
           ],
