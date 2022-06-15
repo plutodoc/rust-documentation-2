@@ -274,6 +274,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/advanced-features/unsafe-rust.md',
                 '/documentation/advanced-features/advanced-traits.md',
+                '/documentation/advanced-features/advanced-types.md',
               ],
             },
           ],
