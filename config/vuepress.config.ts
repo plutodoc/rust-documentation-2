@@ -180,6 +180,10 @@ export default defineUserConfig({
             {
               text: '11 Writing Automated Tests',
               link: '/documentation/testing/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/testing/writing-tests.md',
+              ],
             },
           ],
         },
