@@ -219,6 +219,7 @@ export default defineUserConfig({
                 '/documentation/more-about-cargo/release-profiles.md',
                 '/documentation/more-about-cargo/publishing-to-crates-io.md',
                 '/documentation/more-about-cargo/cargo-workspaces.md',
+                '/documentation/more-about-cargo/installing-binaries.md',
               ],
             },
           ],
