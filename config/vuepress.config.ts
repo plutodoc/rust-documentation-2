@@ -197,6 +197,7 @@ export default defineUserConfig({
                 '/documentation/an-io-project/improving-error-handling-and-modularity.md',
                 '/documentation/an-io-project/testing-the-librarys-functionality.md',
                 '/documentation/an-io-project/working-with-environment-variables.md',
+                '/documentation/an-io-project/writing-to-stderr-instead-of-stdout.md',
               ],
             },
           ],
