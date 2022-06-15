@@ -183,6 +183,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/testing/writing-tests.md',
+                '/documentation/testing/running-tests.md',
               ],
             },
           ],
