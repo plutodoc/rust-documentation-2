@@ -279,6 +279,10 @@ export default defineUserConfig({
                 '/documentation/advanced-features/macros.md',
               ],
             },
+            {
+              text: '20 Final Project: Building a Multithreaded Web Server',
+              link: '/documentation/final-project-a-web-server/index.md',
+            },
           ],
         },
       },
