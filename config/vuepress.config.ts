@@ -121,6 +121,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/structs/defining-structs.md',
+                '/documentation/structs/example-structs.md',
               ],
             },
           ],
