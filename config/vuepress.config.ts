@@ -143,6 +143,7 @@ export default defineUserConfig({
                 '/documentation/managing-growing-projects-with-packages-crates-and-modules/packages-and-crates.md',
                 '/documentation/managing-growing-projects-with-packages-crates-and-modules/defining-modules-to-control-scope-and-privacy.md',
                 '/documentation/managing-growing-projects-with-packages-crates-and-modules/paths-for-referring-to-an-item-in-the-module-tree.md',
+                '/documentation/managing-growing-projects-with-packages-crates-and-modules/bringing-paths-into-scope-with-the-use-keyword.md',
               ],
             },
           ],
