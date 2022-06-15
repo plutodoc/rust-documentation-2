@@ -150,6 +150,10 @@ export default defineUserConfig({
             {
               text: '8 Common Collections',
               link: '/documentation/common-collections/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/common-collections/vectors.md',
+              ],
             },
           ],
         },
