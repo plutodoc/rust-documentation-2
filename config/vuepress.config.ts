@@ -174,6 +174,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/generics/syntax.md',
                 '/documentation/generics/traits.md',
+                '/documentation/generics/lifetime-syntax.md',
               ],
             },
           ],
