@@ -112,6 +112,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/understanding-ownership/what-is-ownership.md',
                 '/documentation/understanding-ownership/references-and-borrowing.md',
+                '/documentation/understanding-ownership/slices.md',
               ],
             },
           ],
