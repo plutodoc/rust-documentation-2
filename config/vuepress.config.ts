@@ -135,6 +135,10 @@ export default defineUserConfig({
                 '/documentation/enums/if-let.md',
               ],
             },
+            {
+              text: '7 Managing Growing Projects with Packages, Crates, and Modules',
+              link: '/documentation/managing-growing-projects-with-packages-crates-and-modules/index.md',
+            },
           ],
         },
       },
