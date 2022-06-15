@@ -239,6 +239,10 @@ export default defineUserConfig({
             {
               text: '16 Fearless Concurrency',
               link: '/documentation/concurrency/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/concurrency/threads.md',
+              ],
             },
           ],
         },
