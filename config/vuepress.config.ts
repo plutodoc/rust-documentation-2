@@ -270,6 +270,10 @@ export default defineUserConfig({
             {
               text: '19 Advanced Features',
               link: '/documentation/advanced-features/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/advanced-features/unsafe-rust.md',
+              ],
             },
           ],
         },
