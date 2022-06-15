@@ -233,6 +233,7 @@ export default defineUserConfig({
                 '/documentation/smart-pointers/drop.md',
                 '/documentation/smart-pointers/rc.md',
                 '/documentation/smart-pointers/interior-mutability.md',
+                '/documentation/smart-pointers/reference-cycles.md',
               ],
             },
           ],
