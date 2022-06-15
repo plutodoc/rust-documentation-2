@@ -147,6 +147,10 @@ export default defineUserConfig({
                 '/documentation/managing-growing-projects-with-packages-crates-and-modules/separating-modules-into-different-files.md',
               ],
             },
+            {
+              text: '8 Common Collections',
+              link: '/documentation/common-collections/index.md',
+            },
           ],
         },
       },
