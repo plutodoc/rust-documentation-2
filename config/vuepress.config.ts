@@ -128,6 +128,10 @@ export default defineUserConfig({
             {
               text: '6 Enums and Pattern Matching',
               link: '/documentation/enums/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/enums/defining-an-enum.md',
+              ],
             },
           ],
         },
