@@ -236,6 +236,10 @@ export default defineUserConfig({
                 '/documentation/smart-pointers/reference-cycles.md',
               ],
             },
+            {
+              text: '16 Fearless Concurrency',
+              link: '/documentation/concurrency/index.md',
+            },
           ],
         },
       },
