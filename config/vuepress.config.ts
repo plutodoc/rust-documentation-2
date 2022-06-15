@@ -193,6 +193,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/an-io-project/accepting-command-line-arguments.md',
+                '/documentation/an-io-project/reading-a-file.md',
               ],
             },
           ],
