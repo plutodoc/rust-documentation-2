@@ -289,6 +289,10 @@ export default defineUserConfig({
                 '/documentation/final-project-a-web-server/graceful-shutdown-and-cleanup.md',
               ],
             },
+            {
+              text: 'Appendix',
+              link: '/documentation/appendix/index.md',
+            },
           ],
         },
       },
