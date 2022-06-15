@@ -220,6 +220,7 @@ export default defineUserConfig({
                 '/documentation/more-about-cargo/publishing-to-crates-io.md',
                 '/documentation/more-about-cargo/cargo-workspaces.md',
                 '/documentation/more-about-cargo/installing-binaries.md',
+                '/documentation/more-about-cargo/extending-cargo.md',
               ],
             },
           ],
