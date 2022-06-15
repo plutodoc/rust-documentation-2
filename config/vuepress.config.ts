@@ -267,6 +267,10 @@ export default defineUserConfig({
                 '/documentation/patterns/pattern-syntax.md',
               ],
             },
+            {
+              text: '19 Advanced Features',
+              link: '/documentation/advanced-features/index.md',
+            },
           ],
         },
       },
