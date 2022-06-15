@@ -164,6 +164,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/error-handling/unrecoverable-errors-with-panic.md',
                 '/documentation/error-handling/recoverable-errors-with-result.md',
+                '/documentation/error-handling/to-panic-or-not-to-panic.md',
               ],
             },
           ],
