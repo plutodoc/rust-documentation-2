@@ -184,6 +184,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/testing/writing-tests.md',
                 '/documentation/testing/running-tests.md',
+                '/documentation/testing/test-organization.md',
               ],
             },
           ],
