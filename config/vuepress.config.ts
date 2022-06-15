@@ -160,6 +160,10 @@ export default defineUserConfig({
             {
               text: '9 Error Handling',
               link: '/documentation/error-handling/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/error-handling/unrecoverable-errors-with-panic.md',
+              ],
             },
           ],
         },
