@@ -108,6 +108,10 @@ export default defineUserConfig({
             {
               text: '4 Understanding Ownership',
               link: '/documentation/understanding-ownership/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/understanding-ownership/what-is-ownership.md',
+              ],
             },
           ],
         },
