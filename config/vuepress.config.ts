@@ -194,6 +194,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/an-io-project/accepting-command-line-arguments.md',
                 '/documentation/an-io-project/reading-a-file.md',
+                '/documentation/an-io-project/improving-error-handling-and-modularity.md',
               ],
             },
           ],
