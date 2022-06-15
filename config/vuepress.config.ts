@@ -273,6 +273,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/advanced-features/unsafe-rust.md',
+                '/documentation/advanced-features/advanced-traits.md',
               ],
             },
           ],
