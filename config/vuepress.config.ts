@@ -167,6 +167,10 @@ export default defineUserConfig({
                 '/documentation/error-handling/to-panic-or-not-to-panic.md',
               ],
             },
+            {
+              text: '10 Generic Types, Traits, and Lifetimes',
+              link: '/documentation/generics/index.md',
+            },
           ],
         },
       },
