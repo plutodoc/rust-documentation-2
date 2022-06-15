@@ -177,6 +177,10 @@ export default defineUserConfig({
                 '/documentation/generics/lifetime-syntax.md',
               ],
             },
+            {
+              text: '11 Writing Automated Tests',
+              link: '/documentation/testing/index.md',
+            },
           ],
         },
       },
