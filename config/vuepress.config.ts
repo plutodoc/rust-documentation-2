@@ -154,6 +154,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/common-collections/vectors.md',
                 '/documentation/common-collections/strings.md',
+                '/documentation/common-collections/hash-maps.md',
               ],
             },
           ],
