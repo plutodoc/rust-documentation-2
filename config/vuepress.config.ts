@@ -122,6 +122,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/structs/defining-structs.md',
                 '/documentation/structs/example-structs.md',
+                '/documentation/structs/method-syntax.md',
               ],
             },
           ],
