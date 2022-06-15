@@ -276,6 +276,7 @@ export default defineUserConfig({
                 '/documentation/advanced-features/advanced-traits.md',
                 '/documentation/advanced-features/advanced-types.md',
                 '/documentation/advanced-features/advanced-functions-and-closures.md',
+                '/documentation/advanced-features/macros.md',
               ],
             },
           ],
