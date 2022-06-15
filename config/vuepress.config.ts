@@ -298,6 +298,7 @@ export default defineUserConfig({
                 '/documentation/appendix/operators.md',
                 '/documentation/appendix/derivable-traits.md',
                 '/documentation/appendix/useful-development-tools.md',
+                '/documentation/appendix/editions.md',
               ],
             },
           ],
