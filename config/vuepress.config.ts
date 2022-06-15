@@ -195,6 +195,7 @@ export default defineUserConfig({
                 '/documentation/an-io-project/accepting-command-line-arguments.md',
                 '/documentation/an-io-project/reading-a-file.md',
                 '/documentation/an-io-project/improving-error-handling-and-modularity.md',
+                '/documentation/an-io-project/testing-the-librarys-functionality.md',
               ],
             },
           ],
