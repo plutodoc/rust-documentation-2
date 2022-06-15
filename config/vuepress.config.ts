@@ -214,6 +214,10 @@ export default defineUserConfig({
             {
               text: '14 More About Cargo and Crates.io',
               link: '/documentation/more-about-cargo/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/more-about-cargo/release-profiles.md',
+              ],
             },
           ],
         },
