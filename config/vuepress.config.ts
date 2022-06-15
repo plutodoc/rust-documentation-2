@@ -115,6 +115,10 @@ export default defineUserConfig({
                 '/documentation/understanding-ownership/slices.md',
               ],
             },
+            {
+              text: '5 Using Structs to Structure Related Data',
+              link: '/documentation/structs/index.md',
+            },
           ],
         },
       },
