@@ -257,6 +257,10 @@ export default defineUserConfig({
                 '/documentation/oop/oo-design-patterns.md',
               ],
             },
+            {
+              text: '18 Patterns and Matching',
+              link: '/documentation/patterns/index.md',
+            },
           ],
         },
       },
