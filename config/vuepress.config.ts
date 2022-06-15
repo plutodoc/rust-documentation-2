@@ -157,6 +157,10 @@ export default defineUserConfig({
                 '/documentation/common-collections/hash-maps.md',
               ],
             },
+            {
+              text: '9 Error Handling',
+              link: '/documentation/error-handling/index.md',
+            },
           ],
         },
       },
