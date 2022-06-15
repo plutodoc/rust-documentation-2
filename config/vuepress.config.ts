@@ -200,6 +200,10 @@ export default defineUserConfig({
                 '/documentation/an-io-project/writing-to-stderr-instead-of-stdout.md',
               ],
             },
+            {
+              text: '13 Functional Language Features: Iterators and Closures',
+              link: '/documentation/functional-features/index.md',
+            },
           ],
         },
       },
