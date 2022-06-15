@@ -242,6 +242,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/concurrency/threads.md',
+                '/documentation/concurrency/message-passing.md',
               ],
             },
           ],
