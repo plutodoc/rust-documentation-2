@@ -226,6 +226,10 @@ export default defineUserConfig({
             {
               text: '15 Smart Pointers',
               link: '/documentation/smart-pointers/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/smart-pointers/box.md',
+              ],
             },
           ],
         },
