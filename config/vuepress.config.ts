@@ -163,6 +163,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/error-handling/unrecoverable-errors-with-panic.md',
+                '/documentation/error-handling/recoverable-errors-with-result.md',
               ],
             },
           ],
