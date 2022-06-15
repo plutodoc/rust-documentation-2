@@ -296,6 +296,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/appendix/keywords.md',
                 '/documentation/appendix/operators.md',
+                '/documentation/appendix/derivable-traits.md',
               ],
             },
           ],
