@@ -170,6 +170,10 @@ export default defineUserConfig({
             {
               text: '10 Generic Types, Traits, and Lifetimes',
               link: '/documentation/generics/index.md',
+              collapsible: true,
+              children: [
+                '/documentation/generics/syntax.md',
+              ],
             },
           ],
         },
