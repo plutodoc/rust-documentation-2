@@ -131,6 +131,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/enums/defining-an-enum.md',
+                '/documentation/enums/match.md',
               ],
             },
           ],
