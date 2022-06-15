@@ -286,6 +286,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/final-project-a-web-server/single-threaded.md',
                 '/documentation/final-project-a-web-server/multithreaded.md',
+                '/documentation/final-project-a-web-server/graceful-shutdown-and-cleanup.md',
               ],
             },
           ],
