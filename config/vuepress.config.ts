@@ -42,7 +42,7 @@ export default defineUserConfig({
       'meta',
       {
         name: 'theme-color',
-        content: '#ffffff',
+        content: '#000000',
       },
     ],
   ],
